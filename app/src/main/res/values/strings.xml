@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReportsApp</string>
+    <string name="login_email">Email</string>
+    <string name="login_password">Password</string>
+    <string name="login_ingresar">Ingresar</string>
+    <string name="login_registrar">Registrar</string>
+    <string name="register_ingrese_su_nombre_completo">Ingrese su Nombre Completo</string>
+    <string name="register_ingrese_su_email">Ingrese su Email</string>
+    <string name="register_ingrese_su_password">Ingrese su Password</string>
+    <string name="register_registrar">Registrar</string>
+</resources>
